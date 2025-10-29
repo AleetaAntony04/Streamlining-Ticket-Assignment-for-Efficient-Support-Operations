@@ -39,8 +39,8 @@ To design and implement a ServiceNow-based automated system that streamlines the
 
 | Description | Screenshot |
 |--------------|-------------|
-| Ticket Form View | ![Ticket Form View](Ticket%20form%20view%20(“Operations%20related%20-%20ABC”).png) |
-| List View of All Tickets | ![List View](List%20view%20of%20all%20tickets.png) |
+| Ticket Form View | ![Ticket Form View]|
+| List View of All Tickets | ![List View] |
 
 ---
 
